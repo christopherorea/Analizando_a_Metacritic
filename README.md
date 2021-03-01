@@ -40,11 +40,19 @@ Usaremos Chi cuadrado para evaluar la diferencia entre medias.
 
 ### Resultados
 Chi2 value= 0.24031609979784996
+
 p-value= 0.8867802701087308
+
 Degrees of freedom= 2
-Expected Result = [[76.07202852 70.340519]
- [70.31508152 65.01731876]
- [71.14242102 65.78232387]]
+
+Expected Result = 
+
+[[76.07202852 70.340519]
+
+[70.31508152 65.01731876]
+
+[71.14242102 65.78232387]]
+
  
 El Valor P es de .88 o de 88%. Esto indica que es 88% probable de que H0 sea correcta. 
 
@@ -106,8 +114,11 @@ Switch = XONE = PS4
 Switch ≠ XONE ≠ PS4
 
 XONE y Switch: F-score: 3.0756516432462715, p-value: 0.07970693408287087
+
 XONE y PS4: F-score: 8.711307247864388, p-value: 0.0031957015012337004
+
 Switch y PS4: F-score: 20.155928277505357, p-value: 7.554222030822733e-06
+
 
 Existe una relación entre como varian los juegos tanto buenos como malos de Switch y XONE por parte de la prensa.
 
